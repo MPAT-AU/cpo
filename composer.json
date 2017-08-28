@@ -1,6 +1,6 @@
 {
     "name" : "custom-post-order",
-    "description" : "MPAT custom port order",
+    "description" : "Custom port order",
     "version" : "1.0.0",
     "license" : "GPL2",
     "authors" : [{

@@ -1,0 +1,36 @@
+# Copyright (C) 2017 Custom Posts Order
+# This file is distributed under the same license as the Custom Posts Order package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Posts Order 2017-08-28\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cpo\n"
+"POT-Creation-Date: 2017-08-28 14:58:36+00:00\n"
+"PO-Revision-Date: 2017-08-28 17:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Posts Order"
+msgstr "Aangepaste pagina volgorde"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/jeanphilipperuijs/cpo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Settingless Custom Post Order"
+msgstr "Pas de volgorde aan van de post lijstweergave"
+
+#. Author of the plugin/theme
+msgid "Jean-Philippe Ruijs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/jeanphilipperuijs/"
+msgstr ""
