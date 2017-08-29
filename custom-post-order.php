@@ -1,12 +1,13 @@
 <?php
 /*
- * Plugin Name: MPAT Custom Posts Order
+ * Plugin Name: Custom Posts Order
  * Plugin URI: https://github.com/jeanphilipperuijs/cpo
  * Description: Settingless Custom Post Order
- * Version: 2017-07-03
+ * Version: 2017-08-28
  * Author: Jean-Philippe Ruijs
  * Author URI: https://github.com/jeanphilipperuijs/
- * Text Domain: mpat-custom-post-order
+ * Text Domain: custom-post-order
+ * Domain Path: /languages
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
@@ -64,7 +65,7 @@ class Mpo
         if (!get_option( 'mpo_activation' )) {
             $this->mpo_activation();
         }
-          add_action( 'admin_init', array( $this, 'load_script_css' ) );
+        add_action( 'admin_init', array( $this, 'load_script_css' ) );
         // sortable ajax action
         add_action( 'wp_ajax_update-menu-order', array( $this, 'update_menu_order' ) );
         // reorder post types
