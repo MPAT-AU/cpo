@@ -11,7 +11,7 @@
     "repositories" : [
         {
             "type" : "vcs",
-            "url" : "git@github.com:jeanphilipperuijs/cpo.git"
+            "url" : "git@github.com:MPAT-eu/cpo.git"
         }
     ],
     "type" : "wordpress-plugin"
