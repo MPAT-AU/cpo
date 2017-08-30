@@ -1,9 +1,9 @@
 <?php
 /*
  * Plugin Name: Custom Posts Order
- * Plugin URI: https://github.com/jeanphilipperuijs/cpo
+ * Plugin URI: https://github.com/MPAT-eu/cpo
  * Description: Settingless Custom Post Order
- * Version: 2017-08-28
+ * Version: 1.0.1
  * Author: Jean-Philippe Ruijs
  * Author URI: https://github.com/jeanphilipperuijs/
  * Text Domain: custom-post-order
