@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Custom Posts Order
+ * Plugin Name: MPAT Custom Posts Order
  * Plugin URI: https://github.com/MPAT-eu/cpo
  * Description: Settingless Custom Post Order
  * Version: 1.0.1

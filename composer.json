@@ -1,6 +1,6 @@
 {
     "name" : "custom-post-order",
-    "description" : "Custom port order",
+    "description" : "Custom Posts Order",
     "version" : "1.0.1",
     "license" : "GPL2",
     "authors" : [{

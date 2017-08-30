@@ -1,10 +1,10 @@
-# Copyright (C) 2017 Custom Posts Order
-# This file is distributed under the same license as the Custom Posts Order package.
+# Copyright (C) 2017 MPAT Custom Posts Order
+# This file is distributed under the same license as the MPAT Custom Posts Order package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Custom Posts Order 2017-08-28\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cpo\n"
-"POT-Creation-Date: 2017-08-28 14:58:36+00:00\n"
+"Project-Id-Version: MPAT Custom Posts Order 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mpat-cpo\n"
+"POT-Creation-Date: 2017-08-30 11:50:48+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
 #. Plugin Name of the plugin/theme
-msgid "Custom Posts Order"
+msgid "MPAT Custom Posts Order"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "https://github.com/jeanphilipperuijs/cpo"
+msgid "https://github.com/MPAT-eu/cpo"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -29,5 +29,5 @@ msgid "Jean-Philippe Ruijs"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://github.com/jeanphilipperuijs/"
+msgid "https://github.com/MPAT-eu/"
 msgstr ""
