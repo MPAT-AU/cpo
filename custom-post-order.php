@@ -5,7 +5,7 @@
  * Description: Settingless Custom Post Order
  * Version: 1.0.1
  * Author: Jean-Philippe Ruijs
- * Author URI: https://github.com/jeanphilipperuijs/
+ * Author URI: https://github.com/MPAT-eu/
  * Text Domain: custom-post-order
  * Domain Path: /languages
  * License: GPLv2 or later
