@@ -3,7 +3,7 @@
  * Plugin Name: MPAT Custom Posts Order
  * Plugin URI: https://github.com/MPAT-eu/cpo
  * Description: Settingless Custom Post Order
- * Version: 1.0.1
+ * Version: 1.1.1
  * Author: Jean-Philippe Ruijs
  * Author URI: https://github.com/MPAT-eu/
  * Text Domain: mpat-cpo
