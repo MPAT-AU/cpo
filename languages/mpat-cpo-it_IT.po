@@ -3,21 +3,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Custom Posts Order 2017-08-28\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mpat-cpo\n"
-"POT-Creation-Date: 2017-08-30 13:29:33+00:00\n"
-"PO-Revision-Date: 2017-08-30 15:45+0200\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cpo\n"
+"POT-Creation-Date: 2017-10-09 10:40+0200\n"
+"PO-Revision-Date: 2017-10-09 10:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: nl_NL\n"
+"Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.3\n"
+"X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Plugin Name of the plugin/theme
 msgid "MPAT Custom Posts Order"
-msgstr "MPAT Aangepaste Post Volgorde"
+msgstr "MPAT Ordine Postale"
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/MPAT-eu/cpo"
@@ -25,7 +25,7 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid "Settingless Custom Post Order"
-msgstr "Pas de volgorde aan van de post lijstweergave met betrekking tot SlideFlow"
+msgstr "Ordine postale personalizzato per flusso laterale"
 
 #. Author of the plugin/theme
 msgid "Jean-Philippe Ruijs"

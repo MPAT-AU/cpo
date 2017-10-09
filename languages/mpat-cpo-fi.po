@@ -4,33 +4,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Custom Posts Order 2017-08-28\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cpo\n"
-"POT-Creation-Date: 2017-08-28 14:58:36+00:00\n"
+"POT-Creation-Date: 2017-10-09 10:41+0200\n"
+"PO-Revision-Date: 2017-10-09 10:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi_FI\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-08-30 13:34+0200\n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.0.3\n"
-"Last-Translator: \n"
+"X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_GB\n"
 
 #. Plugin Name of the plugin/theme
-msgid "Custom Posts Order"
-msgstr "Custom Posts Order"
+msgid "MPAT Custom Posts Order"
+msgstr "MPAT mukautettuja virkoja järjestyksessä"
 
 #. Plugin URI of the plugin/theme
-msgid "https://github.com/jeanphilipperuijs/cpo"
+msgid "https://github.com/MPAT-eu/cpo"
 msgstr ""
 
 #. Description of the plugin/theme
 msgid "Settingless Custom Post Order"
-msgstr "Customize the Postorder"
+msgstr "MPAT muokatun postin tilaus sideflow"
 
 #. Author of the plugin/theme
 msgid "Jean-Philippe Ruijs"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://github.com/jeanphilipperuijs/"
+msgid "https://github.com/MPAT-eu/"
 msgstr ""

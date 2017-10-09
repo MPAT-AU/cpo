@@ -6,7 +6,7 @@
  * Version: 1.0.1
  * Author: Jean-Philippe Ruijs
  * Author URI: https://github.com/MPAT-eu/
- * Text Domain: custom-post-order
+ * Text Domain: mpat-cpo
  * Domain Path: /languages
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -105,8 +105,8 @@ class Mpo
         if ($this->_check_load_script_css()) {
             wp_enqueue_script( 'jquery' );
             wp_enqueue_script( 'jquery-ui-sortable' );
-            wp_enqueue_script( 'mpojs', MPO_URL.'/js/mpo.js', array( 'jquery' ), null, true );
-            wp_enqueue_style( 'mpo', MPO_URL.'/css/mpo.css', array(), null );
+            wp_enqueue_script( 'mpojs', MPO_URL.'/js/mpat-cpo.js', array( 'jquery' ), null, true );
+            wp_enqueue_style( 'mpo', MPO_URL.'/css/mpat-cpo.css', array(), null );
         }
     }
 
